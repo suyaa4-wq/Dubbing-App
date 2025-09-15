@@ -1,0 +1,16 @@
+{
+  "name": "dubbing-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "expo start --tunnel"
+  },
+  "dependencies": {
+    "expo": "~48.0.0",
+    "react": "18.2.0",
+    "react-native": "0.71.8"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  }
+}

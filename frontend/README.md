@@ -1,0 +1,1 @@
+This frontend is an Expo starter. When running in Gitpod, ensure backend URL is reachable (use workspace ports).
